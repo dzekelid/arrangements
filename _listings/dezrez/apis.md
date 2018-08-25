@@ -12,95 +12,30 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
+- name: Dezrez.Rezi.Client.Api - Get a list of special arrangements for a property
+  x-api-slug: apipropertyidspecialarrangements-get
+  description: Get a list of special arrangements for a property.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsremove-delete-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsremove-delete-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
+- name: Dezrez.Rezi.Client.Api - Get a list of special arrangements for a property
+  x-api-slug: apipropertyidspecialarrangements-get
+  description: Get a list of special arrangements for a property.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsremove-delete-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsadd-post-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsremove-delete-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsadd-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsremove-delete-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsadd-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangements-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/apipropertyidspecialarrangementsadd-post-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: Cloud based estate agent software , sales & letting agent software,
-    estate agent website design and property management software - Dezrez  Services
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: Arrangements
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/arrangements/master/_listings/dezrez/openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
